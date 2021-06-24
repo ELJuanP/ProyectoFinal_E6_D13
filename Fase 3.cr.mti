@@ -1,0 +1,144 @@
+C:/Users/alfon/Downloads/Fase_2/MEM.v {1 {vlog -work work -stats=none C:/Users/alfon/Downloads/Fase_2/MEM.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Memoria
+
+Top level modules:
+	Memoria
+
+} {} {}} C:/Users/alfon/Downloads/Fase_2/Alu-Control.v {1 {vlog -work work -stats=none {C:\Users\alfon\Downloads\Fase_2\Alu-Control.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module ALUCONTROL
+
+Top level modules:
+	ALUCONTROL
+
+} {} {}} C:/Users/alfon/Downloads/Fase_2/BancoReg.v {2 {vlog -work work -stats=none C:/Users/alfon/Downloads/Fase_2/BancoReg.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Banco_Registros
+** Warning: C:/Users/alfon/Downloads/Fase_2/BancoReg.v(18): (vlog-2182) 'BRM' might be read before written in always_comb or always @* block.
+
+Top level modules:
+	Banco_Registros
+
+} {} {}} C:/Users/alfon/Downloads/Fase_2/PC.v {1 {vlog -work work -stats=none C:/Users/alfon/Downloads/Fase_2/PC.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module PC
+
+Top level modules:
+	PC
+
+} {} {}} C:/Users/alfon/Downloads/Fase_2/Tb_DPTR.v {1 {vlog -work work -stats=none C:/Users/alfon/Downloads/Fase_2/Tb_DPTR.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module test_bench
+
+Top level modules:
+	test_bench
+
+} {} {}} C:/Users/alfon/Downloads/Fase_2/SL2.v {1 {vlog -work work -stats=none C:/Users/alfon/Downloads/Fase_2/SL2.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module ShiftLeft
+
+Top level modules:
+	ShiftLeft
+
+} {} {}} C:/Users/alfon/Downloads/Fase_2/SingExtend.v {1 {vlog -work work -stats=none C:/Users/alfon/Downloads/Fase_2/SingExtend.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module SignExtend
+
+Top level modules:
+	SignExtend
+
+} {} {}} C:/Users/alfon/Downloads/Fase_2/Mux5B.v {1 {vlog -work work -stats=none C:/Users/alfon/Downloads/Fase_2/Mux5B.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Multiplexor5B
+
+Top level modules:
+	Multiplexor5B
+
+} {} {}} C:/Users/alfon/Downloads/Fase_2/Adder1.v {1 {vlog -work work -stats=none C:/Users/alfon/Downloads/Fase_2/Adder1.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Adder1
+
+Top level modules:
+	Adder1
+
+} {} {}} C:/Users/alfon/Downloads/Fase_2/Mux.v {1 {vlog -work work -stats=none C:/Users/alfon/Downloads/Fase_2/Mux.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Multiplexor
+
+Top level modules:
+	Multiplexor
+
+} {} {}} C:/Users/alfon/Downloads/Fase_2/DPTR.v {2 {vlog -work work -stats=none C:/Users/alfon/Downloads/Fase_2/DPTR.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module DPTR
+** Warning: C:/Users/alfon/Downloads/Fase_2/DPTR.v(92): (vlog-2121) Illegal concatenation of an unsized constant. Will treat it as a 32-bit value.
+** Warning: C:/Users/alfon/Downloads/Fase_2/DPTR.v(130): (vlog-2121) Illegal concatenation of an unsized constant. Will treat it as a 32-bit value.
+
+Top level modules:
+	DPTR
+
+} {} {}} C:/Users/alfon/Downloads/Fase_2/Adder2.v {1 {vlog -work work -stats=none C:/Users/alfon/Downloads/Fase_2/Adder2.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Sumador
+
+Top level modules:
+	Sumador
+
+} {} {}} C:/Users/alfon/Downloads/Fase_2/ALU.v {1 {vlog -work work -stats=none C:/Users/alfon/Downloads/Fase_2/ALU.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module ALU
+
+Top level modules:
+	ALU
+
+} {} {}} C:/Users/alfon/Downloads/Fase_2/InsMemory.v {1 {vlog -work work -stats=none {C:\Users\alfon\Downloads\Fase_2\InsMemory.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Instruction_Memory
+
+Top level modules:
+	Instruction_Memory
+
+} {} {}} {C:/Users/alfon/Documents/2ndo Semestre/Seminario arquitectura de computadoras/Proyecto_Fase_3/SL2_2.v} {1 {vlog -work work -stats=none {C:\Users\alfon\Documents\2ndo Semestre\Seminario arquitectura de computadoras\Proyecto_Fase_3\SL2_2.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module ShiftLeft_New
+
+Top level modules:
+	ShiftLeft_New
+
+} {} {}} C:/Users/alfon/Downloads/Fase_2/Buffer1.v {1 {vlog -work work -stats=none C:/Users/alfon/Downloads/Fase_2/Buffer1.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Buffer1
+
+Top level modules:
+	Buffer1
+
+} {} {}} C:/Users/alfon/Downloads/Fase_2/And.v {1 {vlog -work work -stats=none C:/Users/alfon/Downloads/Fase_2/And.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module And
+
+Top level modules:
+	And
+
+} {} {}} C:/Users/alfon/Downloads/Fase_2/Buffer2.v {1 {vlog -work work -stats=none C:/Users/alfon/Downloads/Fase_2/Buffer2.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Buffer2
+
+Top level modules:
+	Buffer2
+
+} {} {}} C:/Users/alfon/Downloads/Fase_2/Buffer3.v {1 {vlog -work work -stats=none C:/Users/alfon/Downloads/Fase_2/Buffer3.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Buffer3
+
+Top level modules:
+	Buffer3
+
+} {} {}} C:/Users/alfon/Downloads/Fase_2/Buffer4.v {1 {vlog -work work -stats=none C:/Users/alfon/Downloads/Fase_2/Buffer4.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Buffer4
+
+Top level modules:
+	Buffer4
+
+} {} {}}
